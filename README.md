@@ -4,8 +4,8 @@
 
 1. Clone the repo
 ```sh
-git clone https://github.com/maveric-coder/webapp
-cd webapp
+git clone https://github.com/maveric-coder/resume
+cd resume
 ```
 2. Build docker image
 ```sh
